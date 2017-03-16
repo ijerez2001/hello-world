@@ -1,0 +1,159 @@
+{
+    "codError": "0000",
+    "datosCliente": {
+      "codigoCliente": "500071662120",
+      "rol": "Titular",
+      "nombre": "JOAQUIN",
+      "apellidos": "GARCIA SERRANO",
+      "fechaNacimiento": "1979-01-05",
+      "telefonoMovil": "648083075",
+      "datosDireccion": {
+        "codigoPostal": "28053",
+        "email": "JGARCIASER@GMAIL.COM"
+      },
+      "iban1": "ES230182************7712",
+      "datosContrato": [
+        {
+          "contrato": {
+            "codigoCliente": "500071662120",
+            "indiceContrato": "03"
+          },
+          "financiabilidad": "S",
+          "posicion": "OK",
+          "producto": "YP",
+          "modoPagoContrato": "FMC",
+          "tarjeta": {
+            "tarjeta": "549821******1316",
+            "fechaCaducidad": "2019-05-01",
+            "estado": "Activa",
+            "fidelidad": "2725007166211"
+          },
+          "indicadorIban": "IBAN1"
+        },
+        {
+          "contrato": {
+            "codigoCliente": "500071662120",
+            "indiceContrato": "19"
+          },
+          "posicion": "SOL",
+          "producto": "YM",
+          "codigoSubproducto": "PM",
+          "origen": "J",
+          "importeMensualidad": "2859",
+          "importeTotal": "33666",
+          "fechaUltimoVencimiento": "2016-01-05",
+          "FechaFinContrato": "2016-02-05",
+          "deudaActual": "0"
+        },
+        {
+          "contrato": {
+            "codigoCliente": "500071662120",
+            "indiceContrato": "18"
+          },
+          "posicion": "SOL",
+          "producto": "YM",
+          "codigoSubproducto": "PM",
+          "origen": "J",
+          "importeMensualidad": "17602",
+          "importeTotal": "52499",
+          "fechaUltimoVencimiento": "2013-03-05",
+          "FechaFinContrato": "2013-04-05",
+          "deudaActual": "0"
+        },
+        {
+          "contrato": {
+            "codigoCliente": "500071662120",
+            "indiceContrato": "17"
+          },
+          "posicion": "ANN",
+          "producto": "YM",
+          "codigoSubproducto": "PMS",
+          "descripcionSubporducto": "Mercantil simplificado",
+          "origen": "J",
+          "importeMensualidad": "2490",
+          "importeTotal": "24505",
+          "fechaUltimoVencimiento": "2013-02-05",
+          "FechaFinContrato": "2013-03-05",
+          "deudaActual": "0",
+          "indicadorIban": "IBAN1"
+        },
+        {
+          "contrato": {
+            "codigoCliente": "500071662120",
+            "indiceContrato": "16"
+          },
+          "posicion": "ANN",
+          "producto": "YM",
+          "codigoSubproducto": "PMS",
+          "descripcionSubporducto": "Mercantil simplificado",
+          "origen": "J",
+          "importeMensualidad": "2290",
+          "importeTotal": "22537",
+          "fechaUltimoVencimiento": "2013-01-05",
+          "FechaFinContrato": "2013-02-05",
+          "deudaActual": "0",
+          "indicadorIban": "IBAN1"
+        },
+        {
+          "contrato": {
+            "codigoCliente": "500071662120",
+            "indiceContrato": "15"
+          },
+          "posicion": "ANN",
+          "producto": "YM",
+          "codigoSubproducto": "PMS",
+          "descripcionSubporducto": "Mercantil simplificado",
+          "origen": "J",
+          "importeMensualidad": "2390",
+          "importeTotal": "23521",
+          "fechaUltimoVencimiento": "2013-01-05",
+          "FechaFinContrato": "2013-02-05",
+          "deudaActual": "0",
+          "indicadorIban": "IBAN1"
+        },
+        {
+          "contrato": {
+            "codigoCliente": "500071662120",
+            "indiceContrato": "14"
+          },
+          "posicion": "SOL",
+          "producto": "YM",
+          "origen": "I",
+          "importeMensualidad": "15773",
+          "importeTotal": "152786",
+          "fechaUltimoVencimiento": "2011-10-05",
+          "FechaFinContrato": "2011-11-05",
+          "deudaActual": "0",
+          "indicadorIban": "IBAN1"
+        },
+        {
+          "contrato": {
+            "codigoCliente": "500071662120",
+            "indiceContrato": "13"
+          },
+          "posicion": "SOL",
+          "producto": "YM",
+          "origen": "I",
+          "importeMensualidad": "6800",
+          "importeTotal": "20131",
+          "fechaUltimoVencimiento": "2009-10-05",
+          "FechaFinContrato": "2009-11-05",
+          "deudaActual": "0"
+        },
+        {
+          "contrato": {
+            "codigoCliente": "500071662120",
+            "indiceContrato": "12"
+          },
+          "posicion": "SAN",
+          "producto": "YR",
+          "origen": "I",
+          "importeMensualidad": "15758",
+          "importeTotal": "1000000",
+          "fechaUltimoVencimiento": "2014-12-05",
+          "FechaFinContrato": "2015-01-05",
+          "deudaActual": "0"
+        }
+      ]
+    }
+  }
