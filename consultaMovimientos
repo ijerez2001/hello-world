@@ -29,7 +29,7 @@
       "concepto": "PAYPAL *ZALANDO DE ",
       "modoPago": "1",
       "importe": "3995",
-      "aplazable": "false",
+      "aplazable": "true",
       "autorizacion": "00895635  ",
       "vendedor": "1892231",
       "red": "",
