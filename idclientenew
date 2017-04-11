@@ -1,17 +1,19 @@
 {
-    "codError": "0000",
-    "datosCliente": {
+  "codError": "0000",
+  "datosCliente": [
+    {
       "codigoCliente": "500071662120",
       "rol": "Titular",
-      "nombre": "JOAQUIN",
+      "nombre": "JOAQUIN                  ",
       "apellidos": "GARCIA SERRANO",
       "fechaNacimiento": "1979-01-05",
       "telefonoMovil": "648083075",
       "datosDireccion": {
         "codigoPostal": "28053",
-        "email": "JGARCIASER@GMAIL.COM"
+        "email": "JGARCIASER@GMAIL.COM                                        "
       },
       "iban1": "ES230182************7712",
+      "iban2": "",
       "datosContrato": [
         {
           "contrato": {
@@ -19,8 +21,8 @@
             "indiceContrato": "03"
           },
           "financiabilidad": "S",
-          "posicion": "OK",
-          "producto": "YP",
+          "posicion": "OK ",
+          "producto": "YP ",
           "modoPagoContrato": "FMC",
           "tarjeta": {
             "tarjeta": "549821******1316",
@@ -38,6 +40,7 @@
           "posicion": "SOL",
           "producto": "YM",
           "codigoSubproducto": "PM",
+          "descripcionSubporducto": "",
           "origen": "J",
           "importeMensualidad": "2859",
           "importeTotal": "33666",
@@ -53,6 +56,7 @@
           "posicion": "SOL",
           "producto": "YM",
           "codigoSubproducto": "PM",
+          "descripcionSubporducto": "",
           "origen": "J",
           "importeMensualidad": "17602",
           "importeTotal": "52499",
@@ -118,6 +122,7 @@
           },
           "posicion": "SOL",
           "producto": "YM",
+          "descripcionSubporducto": "",
           "origen": "I",
           "importeMensualidad": "15773",
           "importeTotal": "152786",
@@ -133,6 +138,7 @@
           },
           "posicion": "SOL",
           "producto": "YM",
+          "descripcionSubporducto": "",
           "origen": "I",
           "importeMensualidad": "6800",
           "importeTotal": "20131",
@@ -147,6 +153,7 @@
           },
           "posicion": "SAN",
           "producto": "YR",
+          "descripcionSubporducto": "",
           "origen": "I",
           "importeMensualidad": "15758",
           "importeTotal": "1000000",
@@ -156,4 +163,5 @@
         }
       ]
     }
-  }
+  ]
+}
