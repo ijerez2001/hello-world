@@ -1,0 +1,22 @@
+{
+  "codError": "0000",
+  "datosCliente": {
+    "nif": "051986228H",
+    "nombre": "JOAQUIN                  ",
+    "apellidos": "GARCIA SERRANO ",
+    "nifCotitular": "051946522X",
+    "nombreCotitular": "VANESA",
+    "apellidosCotitular": "HIDALGO RODRIGUEZ ",
+    "localidad": "MADRID",
+    "direccion": "C/ ARROYO DEL OLIVAR 1 BLQ 29 4 IZQ COL ERILLAS",
+    "codigoPostal": "28053",
+    "email": "JGARCIASER@GMAIL.COM",
+    "telefonoFijo": "914787129",
+    "telefonoMovil": "648083075",
+    "telefonoEmpresa": "913891500",
+    "emailCotitular": "",
+    "telefonoMovilCotitular": "660718874",
+    "iban1": "ES230182************7712",
+    "antiguedadCuenta1": "01/04/1999"
+  }
+}
