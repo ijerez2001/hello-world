@@ -1,0 +1,15 @@
+{
+  "codError": "0000",
+  "limiteContado": "400000",
+  "disponibleContado": "316108",
+  "deudaContado": "72093",
+  "lineaCredito": "60000",
+  "disponibleCredito": "60000",
+  "deudaCredito": "0",
+  "mensualidad": "3000",
+  "saldoCredito": "0",
+  "saldoContado": "0",
+  "mensualidadDomiciliada": "0",
+  "codigoSeguro": "V",
+  "porcentajeSeguro": "4000"
+}
